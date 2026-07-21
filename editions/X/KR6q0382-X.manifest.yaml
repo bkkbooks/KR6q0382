@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0382_000-X.yaml, hash: 'sha256:976d53888df5c3111faf24ebd17deca784c7f9ad92ff522325d9dab0c1ac1771'}
+  - {seq: 0, filename: KR6q0382_000-X.yaml, hash: 'sha256:bf3d6d49d233685039886ee10bf21d89a69dd7d05af6ce7686500bb283ef78db'}
   - {seq: 1, filename: KR6q0382_001-X.yaml, hash: 'sha256:4756b50b9e960ab59db04ea1104c4274e824564e6706f01c457d9e56c9fc379d'}
   - {seq: 2, filename: KR6q0382_002-X.yaml, hash: 'sha256:2c1ed66baa4bcd2c5655f219652f83a6aa93234f295ed79a31668319a63372b1'}
   - {seq: 3, filename: KR6q0382_003-X.yaml, hash: 'sha256:dbba16d53145c5ef1945a8973c8ff9aa14c2ea42f74330873cfc1b53f1f3eec4'}
@@ -50,7 +50,7 @@ assets:
   - {seq: 28, filename: KR6q0382_028-X.yaml, hash: 'sha256:88070e1669580070875cbfe05464c0f29343ff79b3f52326194026cab87214af'}
   - {seq: 29, filename: KR6q0382_029-X.yaml, hash: 'sha256:a710470b73ef0f56a596971c931088387af01d990b0fe27723eb5271dbb62a1b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0382_000-X.markers.yaml, hash: 'sha256:e84edecd0299ee9a3fe47e1635846ce8a25d7e646ee0541aaf66076b8b8827ce'}
+  - {seq: 0, role: markers, filename: assets/KR6q0382_000-X.markers.yaml, hash: 'sha256:0afa2ecbeb6f75430a3912c185b3c7cccd94fe312b11cd8e393826828f02d14f'}
   - {seq: 1, role: markers, filename: assets/KR6q0382_001-X.markers.yaml, hash: 'sha256:c9fe2c0eaed246fa958a89c9215b73cbd4aa48650bd38b8986b68ebed30eabde'}
   - {seq: 2, role: markers, filename: assets/KR6q0382_002-X.markers.yaml, hash: 'sha256:3799e7df6e88a790a3d63a8d729fb58e4078c1484d0ac7eedc9985c6265a56a7'}
   - {seq: 3, role: markers, filename: assets/KR6q0382_003-X.markers.yaml, hash: 'sha256:ae21065ef1e177ea3430671ec4b77b1aa056cfda5f2c49da63f1106e333d9177'}
@@ -85,7 +85,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1452-A 紫栢老人集序
@@ -95,7 +95,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-2
     span:
-    - front
+    - body
     - 827
     - 827
   label: No. 1452-B 紫栢大師集序
@@ -105,7 +105,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-3
     span:
-    - front
+    - body
     - 1581
     - 1581
   label: No. 1452-C
@@ -115,7 +115,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-4
     span:
-    - front
+    - body
     - 1794
     - 1794
   label: No. 1452-D 紫栢大師集䟦
@@ -125,7 +125,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-5
     span:
-    - front
+    - body
     - 2305
     - 2305
   label: 紫栢老人集目錄
@@ -135,7 +135,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-6
     span:
-    - front
+    - body
     - 2471
     - 2471
   label: No. 1452-E 像贊
@@ -145,7 +145,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-7
     span:
-    - front
+    - body
     - 2471
     - 2471
   label: 大師自題
@@ -155,7 +155,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-8
     span:
-    - front
+    - body
     - 2532
     - 2532
   label: 紫栢大師像贊
@@ -165,7 +165,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-9
     span:
-    - front
+    - body
     - 2661
     - 2661
   label: 剡城周汝登伏塊敬書
@@ -175,7 +175,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-10
     span:
-    - front
+    - body
     - 3339
     - 3339
   label: 會稽陶望齡敬題
@@ -185,7 +185,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-11
     span:
-    - front
+    - body
     - 3625
     - 3625
   label: 寓生黃汝亨贊
@@ -195,7 +195,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-12
     span:
-    - front
+    - body
     - 3687
     - 3687
   label: 長水弟子李培敬題
@@ -205,7 +205,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-13
     span:
-    - front
+    - body
     - 3774
     - 3774
   label: 長水姚士慎敬題
@@ -215,7 +215,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-14
     span:
-    - front
+    - body
     - 3829
     - 3829
   label: 陸基忠敬贊
@@ -225,7 +225,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-15
     span:
-    - front
+    - body
     - 4138
     - 4138
   label: 紫栢尊者達觀可大師像贊
@@ -235,7 +235,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-16
     span:
-    - front
+    - body
     - 4189
     - 4189
   label: 聞聞居士陳繼儒贊
@@ -245,7 +245,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-17
     span:
-    - front
+    - body
     - 4284
     - 4284
   label: No. 1452-F 達觀大師塔銘
@@ -255,7 +255,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-18
     span:
-    - front
+    - body
     - 4290
     - 4290
   label: 塔銘
@@ -265,7 +265,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-19
     span:
-    - front
+    - body
     - 8981
     - 8981
   label: 祭文
@@ -275,7 +275,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-20
     span:
-    - front
+    - body
     - 9770
     - 9770
   label: 舉火
@@ -285,7 +285,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-21
     span:
-    - front
+    - body
     - 9958
     - 9958
   label: No. 1452-G 紫栢大師全身舍利塔頌有序
@@ -295,7 +295,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-22
     span:
-    - front
+    - body
     - 10694
     - 10694
   label: No. 1452-H 紫栢老人圜中語錄序
@@ -305,7 +305,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-23
     span:
-    - front
+    - body
     - 11760
     - 11760
   label: 紫栢老人圜中語錄
@@ -315,7 +315,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-24
     span:
-    - front
+    - body
     - 11768
     - 11768
   label: 示潭柘寺僧眾
@@ -325,7 +325,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-25
     span:
-    - front
+    - body
     - 11882
     - 11882
   label: 被逮答檀越
@@ -335,7 +335,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-26
     span:
-    - front
+    - body
     - 12095
     - 12095
   label: 與曹直指夜談
@@ -345,7 +345,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-27
     span:
-    - front
+    - body
     - 12422
     - 12422
   label: 示吳彥先
@@ -355,7 +355,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-28
     span:
-    - front
+    - body
     - 12514
     - 12514
   label: 示郢中仇文學
@@ -365,7 +365,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-29
     span:
-    - front
+    - body
     - 12775
     - 12775
   label: 警大眾
@@ -375,7 +375,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-30
     span:
-    - front
+    - body
     - 13059
     - 13059
   label: 十一月二十九日被逮別潭柘寺偈
@@ -385,7 +385,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-31
     span:
-    - front
+    - body
     - 13101
     - 13101
   label: 出潭柘示僧眾偈
@@ -395,7 +395,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-32
     span:
-    - front
+    - body
     - 13136
     - 13136
   label: 臘月初五日從錦衣衛過邢部偈
@@ -405,7 +405,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-33
     span:
-    - front
+    - body
     - 13177
     - 13177
   label: 聞柝
@@ -415,7 +415,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-34
     span:
-    - front
+    - body
     - 13235
     - 13235
   label: 同曹侍御諸文學集吳彥先夜談
@@ -425,7 +425,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-35
     span:
-    - front
+    - body
     - 13326
     - 13326
   label: 示吳彥先
@@ -435,7 +435,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-36
     span:
-    - front
+    - body
     - 13441
     - 13441
   label: 寄示法密
@@ -445,7 +445,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-37
     span:
-    - front
+    - body
     - 13473
     - 13473
   label: 色空偈示楊中涓
@@ -455,7 +455,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-38
     span:
-    - front
+    - body
     - 13508
     - 13508
   label: 添數珠偈
@@ -465,7 +465,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-39
     span:
-    - front
+    - body
     - 13536
     - 13536
   label: 臘月十一日司審被杖偈
@@ -475,7 +475,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-40
     span:
-    - front
+    - body
     - 13602
     - 13602
   label: 十四日聞擬罪偈
@@ -485,7 +485,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-41
     span:
-    - front
+    - body
     - 13637
     - 13637
   label: 憶介公
@@ -495,7 +495,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-42
     span:
-    - front
+    - body
     - 13668
     - 13668
   label: 憶卓老
@@ -505,7 +505,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-43
     span:
-    - front
+    - body
     - 13699
     - 13699
   label: 十五日法司定罪說偈
@@ -515,7 +515,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-44
     span:
-    - front
+    - body
     - 13736
     - 13736
   label: 十六日臨化說偈
@@ -525,7 +525,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0382_X_000-mulu-45
     span:
-    - front
+    - body
     - 14076
     - 14076
   label: No. 1452-I
@@ -12751,4 +12751,4 @@ table_of_contents:
   label: 贈戴升之
   type: mulu
   level: 1
-hash: sha256:b98258612c3c30da153d3c618bf7775eac7362298808101dcaf0faacf4ae3ae4
+hash: sha256:1639cf9d3a38603a8c62e8d9f1f224abe0d595c32d9de58ad33a8dc1d7074cb0
